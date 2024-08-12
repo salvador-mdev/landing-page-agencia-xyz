@@ -221,8 +221,7 @@ body {
 
 .footer {
     grid-area: footer;
-    /* background-color: lightgreen; */
-    background-color: black;
+    background-color: lightgreen;
     color: white;
     display: flex;
     flex-direction: column;
